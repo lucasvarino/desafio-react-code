@@ -1,0 +1,286 @@
+{
+    "members": [
+        {
+            "name": "Ana Beatriz Lana",
+            "email": "ana.armond@codejr.com.br",
+            "aniversario": "06/10",
+            "departamentos" : [
+                "marketing"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Arthur Bonaldi",
+            "email": "arthur.bonaldi@codejr.com.br",
+            "aniversario": "12/12",
+            "departamentos" : [
+                "presidencia"
+            ],
+            "cargo": "diretor"
+        },
+        {
+            "name": "Bernardo Dantas Ortiz",
+            "email": "bernardo.ortiz@codejr.com.br",
+            "aniversario": "01/28",
+            "departamentos" : [
+                "projetos"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Brenner Henrick",
+            "email": "brenner.costa@codejr.com.br",
+            "aniversario": "09/17",
+            "departamentos" : [
+                "comercial"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Daniel Freitas",
+            "email": "daniel.freitas@codejr.com.br",
+            "aniversario": "04/19",
+            "departamentos" : [
+                "comercial"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Fernando Giardini",
+            "email": "fernando.giardini@codejr.com.br",
+            "aniversario": "06/14",
+            "departamentos" : [
+                "comercial"
+            ],
+            "cargo": "diretor"
+        },
+        {
+            "name": "Frederico Dôndici",
+            "email": "frederico.dondici@codejr.com.br",
+            "aniversario": "04/27",
+            "departamentos" : [
+                "vpgg"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Gabriel Duque",
+            "email": "gabrielschiffner@codejr.com.br",
+            "aniversario": "08/14",
+            "departamentos" : [
+                "projetos"
+            ],
+            "cargo": "gerente"
+        },
+        {
+            "name": "Gabriel Bahia",
+            "email": "gabriel.bahia@codejr.com.br",
+            "aniversario": "09/17",
+            "departamentos" : [
+                "projetos"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Gabriella Cruz",
+            "email": "gabriella.cruz@codejr.com.br",
+            "aniversario": "12/09",
+            "departamentos" : [
+                "vpgg"
+            ],
+            "cargo": "gerente"
+        },
+        {
+            "name": "Gustavo Carvalhaes",
+            "email": "gustavo.ferreira@codejr.com.br",
+            "aniversario": "10/06",
+            "departamentos" : [
+                "comercial",
+                "projetos"
+            ],
+            "cargo": "gerente"
+        },
+        {
+            "name": "Gustavo Coelho Martins",
+            "email": "gustavo.martins@codejr.com.br",
+            "aniversario": "12/08",
+            "departamentos" : [
+                "vpgg",
+                "comercial"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Gustavo Vieira Ribeiro",
+            "email": "gustavo.ribeiro@codejr.com.br",
+            "aniversario": "06/11",
+            "departamentos" : [
+                "projetos"
+            ],
+            "cargo": "gerente"
+        },
+        {
+            "name": "Henrique Colonese",
+            "email": "henrique.colonese@codejr.com.br",
+            "aniversario": "10/04",
+            "departamentos" : [
+                "projetos"
+            ],
+            "cargo": "gerente"
+        },
+        {
+            "name": "Isabela Salvador",
+            "email": "isabela.salvador@codejr.com.br",
+            "aniversario": "07/30",
+            "departamentos" : [
+                "marketing"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Isabelly Cristine",
+            "email": "isabelly.oliveira@codejr.com.br",
+            "aniversario": "05/02",
+            "departamentos" : [
+                "vpgg"
+            ],
+            "cargo": "diretor"
+        },
+        {
+            "name": "João Pedro Banhato",
+            "email": "joao.banhato@codejr.com.br",
+            "aniversario": "12/19",
+            "departamentos" : [
+                "vpgg"
+            ],
+            "cargo": "gerente"
+        },
+        {
+            "name": "João Pedro Ferreira (Cascata)",
+            "email": "joao.ferreira@codejr.com.br",
+            "aniversario": "06/26",
+            "departamentos" : [
+                "projetos"
+            ],
+            "cargo": "diretor"
+        },
+        {
+            "name": "Jonatas Dias",
+            "email": "jonatas.dias@codejr.com.br",
+            "aniversario": "07/21",
+            "departamentos" : [
+                "marketing"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Kayan Martins de Freitas",
+            "email": "kayan.freitas@codejr.com.br",
+            "aniversario": "05/21",
+            "departamentos" : [
+                "projetos"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Kleiton Ewerton de Oliveira",
+            "email": "kleiton.ewerton@codejr.com.br",
+            "aniversario": "07/06",
+            "departamentos" : [
+                "vpgg"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Lucas de Oliveira Varino",
+            "email": "lucas.varino@codejr.com.br",
+            "aniversario": "01/15",
+            "departamentos" : [
+                "projetos"
+            ],
+            "cargo": "gerente"
+        },
+        {
+            "name": "Lucas Henrique de Araújo",
+            "email": "lucas.araujo@codejr.com.br",
+            "aniversario": "11/11",
+            "departamentos" : [
+                "vpgg"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Maria Luísa Riolino",
+            "email": "maria.riolino@codejr.com.br",
+            "aniversario": "02/15",
+            "departamentos" : [
+                "marketing"
+            ],
+            "cargo": "gerente"
+        },
+        {
+            "name": "Maria Luíza Dornelas",
+            "email": "maria.dornelas@codejr.com.br",
+            "aniversario": "07/30",
+            "departamentos" : [
+                "comercial"
+            ],
+            "cargo": "gerente"
+        },
+        {
+            "name": "Mariana Siano",
+            "email": "mariana.siano@codejr.com.br",
+            "aniversario": "04/15",
+            "departamentos" : [
+                "vpgg"
+            ],
+            "cargo": "gerente"
+        },
+        {
+            "name": "Mateus Alves",
+            "email": "mateus.alves@codejr.com.br",
+            "aniversario": "02/22",
+            "departamentos" : [
+                "marketing"
+            ],
+            "cargo": "gerente"
+        },
+        {
+            "name": "Mateus Leal Costa",
+            "email": "matheus.leal@codejr.com.br",
+            "aniversario": "11/21",
+            "departamentos" : [
+                "vpgg"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Pedro do Couto Filgueiras",
+            "email": "pedro.couto@codejr.com.br",
+            "aniversario": "03/15",
+            "departamentos" : [
+                "projetos"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Pedro Grimaldi Hansel",
+            "email": "pedro.grimaldi@codejr.com.br",
+            "aniversario": "06/13",
+            "departamentos" : [
+                "projetos",
+                "comercial"
+            ],
+            "cargo": "assessor"
+        },
+        {
+            "name": "Rafael de Oliveira Zimbrão",
+            "email": "rafael.zimbrao@codejr.com.br",
+            "aniversario": "06/22",
+            "departamentos" : [
+                "marketing"
+            ],
+            "cargo": "assessor"
+        }
+    ]
+}
